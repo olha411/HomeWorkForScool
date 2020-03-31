@@ -7,4 +7,4 @@ f.close()
 import pickle
 f = open('favorites.dat','rb')
 favourite = pickle.load(f)
-print(favourite)
+print(favourite
